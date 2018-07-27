@@ -1,0 +1,22 @@
+This file contains links to various interesting data sets you might be interested in. These links take you directly to the data files,
+so you can just copypaste them to your notebooks.
+
+1. CMS PARTICLE PHYSICS
+- http://kati.web.cern.ch/kati/SingleMuonMet.csv , large file that contains both single and double muons with MET.
+- http://opendata.cern.ch/record/545/files/Dimuon_DoubleMu.csv , large file that contains measured muon pairs from the 2011A run.
+    Info in here: http://opendata.cern.ch/record/545 .
+
+
+2. SOLAR DATA FROM SIDC
+- http://sidc.oma.be/silso/INFO/sndhemcsv.php , data from sunspots taken daily from 1992 to last month. Ugly formatting.
+    Info in here: http://sidc.oma.be/silso/infosndhem . 
+
+3. POPULATION GROWTH AND ESTIMATES IN ENGLAND
+- http://opendata.cambridgeshireinsight.org.uk/files/ci_opendata/Cambridgeshire%20%26%20Peterborough%20Population%20Forecasts%20by%20syoa%200-25%20yrs%202016%20to%202026.csv
+
+4. GLOBAL EARTHQUAKES
+- https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv , last month updated every 15 minutes.
+    Info in here: https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php .
+    
+5. MUSIC, THE MILLION SONG DATASET
+- https://think.cs.vt.edu/corgis/csv/music/music.csv?forcedownload=1 , well, a part of that set as the entirity takes GBs of space.
